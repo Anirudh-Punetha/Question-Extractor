@@ -1,0 +1,68 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "required": ["document_id", "questions", "tables", "figures", "metrics"],
+    "properties": {
+      "document_id": { "type": "string" },
+      "questions": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["id", "type", "latex", "children"],
+          "properties": {
+            "id": { "type": "string" },
+            "type": { "enum": ["mcq", "descriptive"] },
+            "latex": { "type": "string" },
+            "options": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "required": ["label", "latex", "confidence"],
+                "properties": {
+                  "label": { "type": "string" },
+                  "latex": { "type": "string" },
+                  "confidence": { "type": "number" }
+                }
+              }
+            },
+            "children": { "$ref": "#/properties/questions" }
+          }
+        }
+      },
+      "tables": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["id", "rows"],
+          "properties": {
+            "id": { "type": "string" },
+            "rows": {
+              "type": "array",
+              "items": {
+                "type": "array",
+                "items": { "type": "string" }
+              }
+            }
+          }
+        }
+      },
+      "figures": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["file", "page"],
+          "properties": {
+            "file": { "type": "string" },
+            "page": { "type": "number" }
+          }
+        }
+      },
+      "metrics": {
+        "type": "object",
+        "required": ["total_ms"],
+        "properties": {
+          "total_ms": { "type": "number" }
+        }
+      }
+    }
+  }
