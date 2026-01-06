@@ -1,0 +1,489 @@
+{
+  "job_id": "8e098043-e701-4412-964b-84ad920a7500",
+  "questions": [
+    {
+      "id": "Q1",
+      "type": "MCQ",
+      "content_latex": "Which of the following is not a criterion for congruence of triangles?",
+      "options": [
+        "(A) SAS",
+        "(B) ASA",
+        "(C) SSA",
+        "(D) sss"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q2",
+      "type": "MCQ",
+      "content_latex": "If AB = QR, BC = PR and CA= PQ, then",
+      "options": [
+        "(A) AABC=A PQR",
+        "(B) ACBA=A PRQ",
+        "(C) ABAC=A RPQ",
+        "(D) APQR=A BCA"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q3",
+      "type": "MCQ",
+      "content_latex": "In AABC, AB=AC and \bB= 50\u00b0. Then \fC is equal to",
+      "options": [
+        "(A) 40\u00b0",
+        "(B) 50\u00b0",
+        "(C) 80\u00b0",
+        "(D) 130\u00b0"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q4",
+      "type": "MCQ",
+      "content_latex": "In AABC, BC=AB and \bB= 80\u00b0. Then A is equal to",
+      "options": [
+        "(A) 80\u00b0",
+        "(B) 40\u00b0",
+        "(C) 50\u00b0",
+        "(D) 100\u00b0"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q5",
+      "type": "MCQ",
+      "content_latex": "In A PQR, ZR = ZP and QR = 4 cm and PR = 5 cm. Then the length of PQ is",
+      "options": [
+        "(A) 4cm",
+        "(B) Scm",
+        "(C) 2cm",
+        "(D) 25cm"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q6",
+      "type": "MCQ",
+      "content_latex": "It is given that A ABC = A FDE and AB = 5 cm, 2B = 40\u00b0 and ZA= 80\u00b0. Then which of the following is true?",
+      "options": [
+        "(A) DF=Scm, 2F=60\u00b0",
+        "(B) DF=5cm, ZE=60\u00b0",
+        "(C) DE=5cm, ZE=60\u00b0",
+        "(D) DE=5cm, 2D=40\u00b0"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q7",
+      "type": "MCQ",
+      "content_latex": "In triangles ABC and PQR, AB=AC, ZC = ZPand 2B = ZQ. The two triangles are",
+      "options": [
+        "(A) \\_ isosceles but not congruent",
+        "(B) isosceles and congruent",
+        "(C) congruent but not isosceles",
+        "(D) nor isosceles \\_ neither congruent"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q8",
+      "type": "MCQ",
+      "content_latex": "In triangles ABC and DEF, AB = FD and ZA = 2D. The two triangles will be congruent by SAS axiom if",
+      "options": [
+        "(A) BC=EF",
+        "(B) AC=DE",
+        "(C) AC=EF",
+        "(D) BC=DE"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q9",
+      "type": "MCQ",
+      "content_latex": "Side QR of a \u2206PQR has been produced to the point S. If \u2220 PRS = 115\u00b0 and \u2220 P = 45\u00b0, then \u2220 Q is equal to, (a)",
+      "options": [
+        "(a) 70\u00b0",
+        "(b) 105\u00b0",
+        "(c) 51\u00b0",
+        "(d) 80\u00b0"
+      ],
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_1.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q10",
+      "type": "MCQ",
+      "content_latex": "In an equilateral triangle ABC, ifAD is an altitude then 4AD 2 is equal to (a) 2BD 2 (b) BC 2 (c) 3AB 2 (d) 2DC 2",
+      "options": [
+        "(a) 2BD 2",
+        "(b) BC 2",
+        "(c) 3AB 2",
+        "(d) 2DC 2"
+      ],
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_2.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q11",
+      "type": "MCQ",
+      "content_latex": "PS is the bisector of \u2220 P and PQ = PR. Then \u2206PRS and \u2206PQS are congruent by the criterion (a) AAA (b) SAS (c) ASA (d) both (b) and (c)",
+      "options": [
+        "(a) AAA",
+        "(b) SAS",
+        "(c) ASA",
+        "(d) both (b) and (c)"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q12",
+      "type": "MCQ",
+      "content_latex": "3 times the measure of an angle is 14 less than the measure of its complement. What is the measure of the angle? (a) 19\u00b0 (b) 57\u00b0 (c) 71\u00b0 (d) 76\u00b0",
+      "options": [
+        "(a) 19\u00b0",
+        "(b) 57\u00b0",
+        "(c) 71\u00b0",
+        "(d) 76\u00b0"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q13",
+      "type": "MCQ",
+      "content_latex": "Two angles are congruent and complementary. What is the measure of each angle? (a) 180 0 (b) 90 0 (c) 45 0 (d) 360 0",
+      "options": [
+        "(a) 180 0",
+        "(b) 90 0",
+        "(c) 45 0",
+        "(d) 360 0"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q14",
+      "type": "MCQ",
+      "content_latex": "The measure of the supplement of an angle is 12 more than twice the measure of the angle. What is the measure of the angle? (a)124 (b). 48 (c) 56 (d) 24",
+      "options": [
+        "(a)124",
+        "(b). 48",
+        "(c) 56",
+        "(d) 24"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q15",
+      "type": "MCQ",
+      "content_latex": "In triangle ABC, if BC= 3 and AC = 4, then what is the length of segment CD? (a) 3 (b). 15/4 (c) 5 (d). 16/3",
+      "options": [
+        "(a) 3",
+        "(b). 15/4",
+        "(c) 5",
+        "(d). 16/3"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q16",
+      "type": "MCQ",
+      "content_latex": "In triangle ABC, angle A=90\u00b0, angle B=30\u00b0, BC=8cm. Find the length of side AB and AC? (a) 4, 6.93 (b) 5, 5.964 (c) 7, 4.675 (d) 8, 3.876",
+      "options": [
+        "(a) 4, 6.93",
+        "(b) 5, 5.964",
+        "(c) 7, 4.675",
+        "(d) 8, 3.876"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q17",
+      "type": "MCQ",
+      "content_latex": "In \u2206 ABC is an isosceles triangle and \u2220 B = 65 o , find x. (a) 60 o (b) 70 o (c) 50 o (d) none of these",
+      "options": [
+        "(a) 60 o",
+        "(b) 70 o",
+        "(c) 50 o",
+        "(d) none of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q18",
+      "type": "MCQ",
+      "content_latex": "In a triangle, one angle is of 90\u00b0. Then (i) The other two angles are of 45\u00b0 each (ii) In remaining two angles, one angle is 90\u00b0 and other is 45\u00b0 (iii) Remaining two angles are complementary In the given option(s) which is true? (a) (i) only (b) (ii) only (c) (iii) only (d) (i) and (ii)",
+      "options": [
+        "(a) (i) only",
+        "(b) (ii) only",
+        "(c) (iii) only",
+        "(d) (i) and (ii)"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q19",
+      "type": "MCQ",
+      "content_latex": "If in an isosceles triangle, each of the base angles is 40\u00b0, then the triangle is (a) Right-angled triangle (b) Acute angled triangle (c) Obtuse angled triangle (d) Isosceles right-angled triangle",
+      "options": [
+        "(a) Right-angled triangle",
+        "(b) Acute angled triangle",
+        "(c) Obtuse angled triangle",
+        "(d) Isosceles right-angled triangle"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q20",
+      "type": "MCQ",
+      "content_latex": "In Fig., BC = CA and \u2220 A = 40. Then, \u2220 ACD is equal to (a) 40\u00b0 (b) 80\u00b0 (c) 120\u00b0 (d) 60\u00b0",
+      "options": [
+        "(a) 40\u00b0",
+        "(b) 80\u00b0",
+        "(c) 120\u00b0",
+        "(d) 60\u00b0"
+      ],
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_3.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q21",
+      "type": "Subjective",
+      "content_latex": "Prove that angles opposite to equal sides of an isosceles triangle are equal.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q22",
+      "type": "Subjective",
+      "content_latex": "In the given figure, AD is bisector of \u2220 BAC and \u2220 CPD = \u2220 BPD. Prove that \u0394CAP \u224c \u0394BAP.",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_4.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q23",
+      "type": "Subjective",
+      "content_latex": "In AABC, and CE are two altitudes such that BD=CE. Prove that AABC is isosceles.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q24",
+      "type": "Subjective",
+      "content_latex": "In the fig. 10, D and E are points on the base BC of a AABC such that AD=AE and ZBAD=CAE. Prove that AB=AC.",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_5.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q25",
+      "type": "Subjective",
+      "content_latex": "The exterior angles, obtained on producing the base of a triangle both way are 104 0 and 136 0 . Find all the angles of the triangle.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q26",
+      "type": "Subjective",
+      "content_latex": "In the figure, / ii m and M is the mid-point of AB. Prove that M is also the mid-point of CD.",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_6.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q27",
+      "type": "Subjective",
+      "content_latex": "In a triangle ABC, E and F respectively are mid-points of equal sides AB and AC of \u0394ABC. Show that BF = CE.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q28",
+      "type": "Subjective",
+      "content_latex": "AD is an altitude of an isosceles \u0394ABC in which AB = AC. Show that AD bisects BC.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q29",
+      "type": "Subjective",
+      "content_latex": "\"a[SUeL} ay} JO URIPAUT ay} ose st QV Jey} MOYS \"DW =\\_V YM ur Dgy a[sueLy sajaosost ue yo apnyyye ue st VY",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q30",
+      "type": "Subjective",
+      "content_latex": "\"ADVV=CaVV #4 ACI \"DV=aV PUR qOV7=dav7 A 'SG \"By ul",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_7.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q31",
+      "type": "Subjective",
+      "content_latex": "In figure 6, ALMN is an isosceles triangle with LM=LN, and LP bisects ZNLQ, Prove that",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_8.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q32",
+      "type": "Subjective",
+      "content_latex": "In the fig. 9, the sides AB and AC of AABC are produced to points E and D respectively. If bisectors BO and CO of 4CBE and ZBCD meet at then that respectively point O, prove 1 ZBOC = 90\u00b0 \u2014 &gt; ZBAC.",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_9.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q33",
+      "type": "Subjective",
+      "content_latex": "n Fig. it is given that AB = CF, EF = BD and ZAFE = zDBC. Prove that AAFE ACBD. D",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_11.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Q34",
+      "type": "Subjective",
+      "content_latex": "In a \u0394ABC, the internal bisectors of \fB and \fC meet at P and the external bisectors od \fB and \fC meet at Q. Prove that \fBPC + \fBQC = 180 0 .",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_12.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "14",
+      "type": "essay",
+      "content_latex": "In figure 10, if AB=AC and DB=DC then prove that 4 ABD= 4 ACD.",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_13.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "15",
+      "type": "essay",
+      "content_latex": "In figure 11, PORS is a square and SRT is an equilateral triangle. Prove that :",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_14.png"
+      ],
+      "table_references": [],
+      "sub_questions": [
+        {
+          "id": "15_i",
+          "content_latex": "(i) 4PST=ZORT"
+        },
+        {
+          "id": "15_ii",
+          "content_latex": "(ii) PT=QT"
+        },
+        {
+          "id": "15_iii",
+          "content_latex": "(iii) 4ZOQTR=15\u00b0"
+        }
+      ]
+    },
+    {
+      "id": "unnumbered_1",
+      "type": "essay",
+      "content_latex": "In figure 9, ABC is a triangle with ZBAC=90\u00b0 and ALL BC. Prove that 7CAL= Z ABC.",
+      "options": null,
+      "image_references": [
+        "8e098043-e701-4412-964b-84ad920a7500_fig_15.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "16",
+      "type": "essay",
+      "content_latex": "",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    }
+  ],
+  "errors": []
+}

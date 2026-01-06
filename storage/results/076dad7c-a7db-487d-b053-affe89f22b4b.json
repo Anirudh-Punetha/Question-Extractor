@@ -1,0 +1,590 @@
+{
+  "job_id": "076dad7c-a7db-487d-b053-affe89f22b4b",
+  "questions": [
+    {
+      "id": "Practice Example 1",
+      "type": "multiple_choice",
+      "content_latex": "5 + 2 =",
+      "options": [
+        "A : 5",
+        "B : 6",
+        "C : 7",
+        "D : 8",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_0.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Practice Example 2",
+      "type": "multiple_choice",
+      "content_latex": "Which is the largest number?",
+      "options": [
+        "A : 403",
+        "B : 4600",
+        "C : 406",
+        "D : 4060",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Practice Example 3",
+      "type": "multiple_choice",
+      "content_latex": "4879 What value does the circled number in the number above represent?",
+      "options": [
+        "A : 4879",
+        "B : 700",
+        "C : 70",
+        "D : 7",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 1",
+      "type": "multiple_choice",
+      "content_latex": "5 4 3 10 + - - - + -",
+      "options": [
+        "B : - 12",
+        "C : - 4",
+        "D : 16",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 2",
+      "type": "multiple_choice",
+      "content_latex": "= \u00f7 - \u00f7 - 8 6 96",
+      "options": [
+        "A : 2",
+        "B : 12",
+        "C : - 12",
+        "D : - 2",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 3",
+      "type": "multiple_choice",
+      "content_latex": "Jo bought a used car for $6000 and paid 15% deposit. How much did he still have to pay?",
+      "options": [
+        "A : $900",
+        "B : $5000",
+        "C : $4500",
+        "D : $5100",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 4",
+      "type": "multiple_choice",
+      "content_latex": "= - \u00f7 + - - \u00d7- 8 16 12) (8 2 5",
+      "options": [
+        "A : 6",
+        "B : - 8",
+        "C : - 16",
+        "D : - 6",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 5",
+      "type": "multiple_choice",
+      "content_latex": "What is 8% of $600?",
+      "options": [
+        "A : $580",
+        "B : $480",
+        "C : $48",
+        "D : $58",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 6",
+      "type": "multiple_choice",
+      "content_latex": "Which is the longest distance?",
+      "options": [
+        "A : 3500cm",
+        "B : 65.5m",
+        "C : 75000mm",
+        "D : 15.5m",
+        "E : 0.1km"
+      ],
+      "image_references": [],
+      "table_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 7",
+      "type": "multiple_choice",
+      "content_latex": "The perimeter of the shape is",
+      "options": [
+        "A : 47cm",
+        "B : 72cm",
+        "C : 69cm",
+        "D : 94cm",
+        "E : Not enough information to find perimeter"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_1.png",
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_2.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 8",
+      "type": "multiple_choice",
+      "content_latex": "If the length of the shorter arc AB is 22cm and C is the centre of the circle then the circumference of the circle is:",
+      "options": [
+        "A : 990cm",
+        "B : 67cm",
+        "C : 176cm",
+        "D : 88cm",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 9",
+      "type": "multiple_choice",
+      "content_latex": "If 2 fligs make a flog and 3 flogs make a flug, how many fligs in 12 flugs?",
+      "options": [
+        "A : 72",
+        "B : 17",
+        "C : 36",
+        "D : 34",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 10",
+      "type": "multiple_choice",
+      "content_latex": "If 2 1 / 3 : 4 1 / 3 then 7:",
+      "options": [
+        "A : 12"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 11",
+      "type": "multiple_choice",
+      "content_latex": "Concrete is made by mixing screenings cement and sand in the ratio 3:1:15. How much sand would be needed to make 125 tonnes of concrete?",
+      "options": [
+        "A : 27 tonnes",
+        "B : 33.75 tonnes",
+        "C : 45 tonnes",
+        "D : 75 tonnes",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_3.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 13",
+      "type": "multiple_choice",
+      "content_latex": "",
+      "options": [
+        "B : 13",
+        "C : 8 / 2 3",
+        "D : 6 1 / 3",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_4.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 14",
+      "type": "multiple_choice",
+      "content_latex": "How many students studied for more than 8 hours in the week?",
+      "options": [
+        "A : 22",
+        "B : 29",
+        "C : 42",
+        "D : 50",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_5.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 15",
+      "type": "multiple_choice",
+      "content_latex": "How many students studied for 6 hours or less per week?",
+      "options": [
+        "A : 9",
+        "B : 18",
+        "C : 15",
+        "D : 12",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_5.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 16",
+      "type": "multiple_choice",
+      "content_latex": "Two six sided dice are thrown together. What is the probability that a total of 10 is thrown?",
+      "options": [
+        "A : 1 / 6",
+        "B : 1 / 12"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 17",
+      "type": "multiple_choice",
+      "content_latex": "The gradient of the line is",
+      "options": [
+        "A : 2 3",
+        "B : 3 2",
+        "C : 1 / 2",
+        "D : 5 / 6",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_6.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 18",
+      "type": "multiple_choice",
+      "content_latex": "The y intercept of the graph could only be:",
+      "options": [
+        "- A : ( ) 4,0"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 19",
+      "type": "multiple_choice",
+      "content_latex": "Which inequation shows the following statement? - x is 6 or less and more than - 5",
+      "options": [
+        "A : - 5 < x \u2264 6",
+        "B : -5 > x \u2264 6",
+        "C : -5 \u2264 x \u2264 6",
+        "D : -5 < x < 6",
+        "E : -5 \u2264 x < 6"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 20",
+      "type": "multiple_choice",
+      "content_latex": "Expand and simplify $$- 6 \\left ( 2 x - 3 \\right ) - 1 1$$",
+      "options": [
+        "- A : 29 12 --x",
+        "- B : x 12 7 -",
+        "- C : 7 12 -x",
+        "- D : x 12 7 +",
+        "- E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_7.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 21",
+      "type": "multiple_choice",
+      "content_latex": "Which option would make this solid?",
+      "options": [
+        "A:",
+        "B:",
+        "E: None of the nets would make the solid"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_8.png",
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_9.png",
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_10.png",
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_11.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 22",
+      "type": "multiple_choice",
+      "content_latex": "The diagram shows a small rectangular field. If Linda runs from A to B to D to C to A, how far does she run?",
+      "options": [
+        "A : 120m",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_12.png",
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_13.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 23",
+      "type": "multiple_choice",
+      "content_latex": "Simplify the surd 56 3 completely",
+      "options": [
+        "- A : 14 12",
+        "- B : 14 5",
+        "C : 6 14",
+        "- D :",
+        "- E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 24",
+      "type": "multiple_choice",
+      "content_latex": "The length of x equals",
+      "options": [
+        "A : 28 6",
+        "B : cm 6",
+        "C : cm 2 5",
+        "D : cm 5 2",
+        "E : None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_14.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 25",
+      "type": "free_response",
+      "content_latex": "The rectangle box has dimensions as shown. What is the length AG ?",
+      "options": null,
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_15.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 26",
+      "type": "multiple_choice",
+      "content_latex": "Sam bought a car valued at $7700. One year later the car's value had decreased by 2 /7. What is the new value of the car?",
+      "options": [
+        "- A : $2200",
+        "- B : $5500",
+        "C : $9900",
+        "D : $4400",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 27",
+      "type": "free_response",
+      "content_latex": "If Density = Mass \u00f7 Volume, what is the Mass of the solid in the diagram if its Density is $1.2gm / cm 3$?",
+      "options": null,
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_16.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 28",
+      "type": "multiple_choice",
+      "content_latex": "What is the speed in m/s of a car that travels 30km in 20 minutes?",
+      "options": [
+        "A : 1500 m/s",
+        "B : 150 m/s",
+        "C : 90 m/s",
+        "D : 540 m/s",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 29",
+      "type": "multiple_choice",
+      "content_latex": "$$If R = \\frac { ( S + T ) P } { 3 } \\text { then } T \\text { equals}$$",
+      "options": [
+        "- A : P S R -3",
+        "B : 3 PR S -",
+        "- C : P R 3 S +",
+        "- D : P S R + 3",
+        "- E : P R 3 S -"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 30",
+      "type": "multiple_choice",
+      "content_latex": "Solve the inequation for x $$\\frac { 5 ( 9 - x ) } { 3 } + 1 < \\$$ $$\\frac { 5 ( 9 - x ) } { 3 } + 1 < 1 1 \\ A \\colon x < 3 \\quad B \\colon x > 3$$",
+      "options": [
+        "A : x < 3",
+        "B : x > 3",
+        "- C : x > -3",
+        "D : x > 1 4 / 5",
+        "E : None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 31",
+      "type": "multiple_choice",
+      "content_latex": "Solve for x $$\\frac { 4 x - 3 } { 5 } - \\frac { 2 x - 3 } { 2 } = - 2$$ $$A \\colon _ { x } = 1 ^ { 1 1 } \\Big / _ { 1 8 }$$",
+      "options": [
+        "A : _ { x } = 1 ^ { 1 1 } \\Big / _ { 1 8 }",
+        "- B : 2 5 1 = x",
+        "- C : 2 5 1 = -x",
+        "- D : 2 14 1 = x",
+        "- E : 2 14 1 = -x"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 32",
+      "type": "free_response",
+      "content_latex": "Which equation could only be the equation of the graph?",
+      "options": null,
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_17.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 33",
+      "type": "multiple_choice",
+      "content_latex": "Which set of coordinates lie outside the shaded area?",
+      "options": [
+        "A : ( ) 0,0",
+        "B : ( ) 6 1 , --",
+        "C : ( ) 50 1 , -",
+        "D : ( ) 1,1",
+        "E : ( ) 4,1"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_18.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 34",
+      "type": "free_response",
+      "content_latex": "The equation of this graph is:",
+      "options": null,
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_19.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "59",
+      "type": "multiple_choice",
+      "content_latex": "",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3",
+        "None of these"
+      ],
+      "image_references": [
+        "076dad7c-a7db-487d-b053-affe89f22b4b_fig_20.png"
+      ],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "60",
+      "type": "multiple_choice",
+      "content_latex": "Factorise bc ac b ab --+ 2",
+      "options": [
+        "$( b - c ) ( a - c )$",
+        "$( b + a ) ( b + c )$",
+        "$( b - c ) ( a + b )$",
+        "$( b + c ) ( a - b )$",
+        "$( b - c ) ( a + c )$"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    }
+  ],
+  "errors": [
+    {
+      "pages": "11-15",
+      "reason": "Timeout"
+    }
+  ]
+}

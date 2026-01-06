@@ -1,0 +1,172 @@
+{
+  "job_id": "2a985603-9d7f-4a3e-b10a-2da676cb15a4",
+  "questions": [
+    {
+      "id": "Question 1",
+      "type": "normal",
+      "content_latex": "Evaluate:$$\\sum _ { k = 0 } ^ { 4 } \\frac { 2 k - 1 } { 2 k + 1 }$$",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 2",
+      "type": "normal",
+      "content_latex": "Evaluate:$$\\sum _ { k = 2 } ^ { \\infty } \\frac { 1 } { 3 } \\left ( - \\frac { 1 } { 2 } \\right ) ^ { k }$$",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 3",
+      "type": "normal",
+      "content_latex": "Evaluate:$$\\sum _ { k = 9 } ^ { 5 8 2 } \\left ( \\frac { 1 } { 2 } k + 6 \\right )$$",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 4",
+      "type": "normal",
+      "content_latex": "Express the following in sigma notation and find the sum.$$$$7 \\pi + \\frac { 2 2 } { 3 } \\pi + \\frac { 2 3 } { 3 } \\pi + 8 \\pi + \\cdots + \\frac { 9 2 2 } { 3 } \\pi$$",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 5",
+      "type": "normal",
+      "content_latex": "Consider the sequence, \\\ud835\udc83\ud835\udc8f , defined recursively as follows: $b1 = 3$ , $b2 = 2$ , and $1 2 n n n b b b --=$",
+      "options": null,
+      "image_references": [
+        "2a985603-9d7f-4a3e-b10a-2da676cb15a4_fig_0.png"
+      ],
+      "table_references": [
+        "2a985603-9d7f-4a3e-b10a-2da676cb15a4_tbl_0.csv"
+      ],
+      "sub_questions": [
+        {
+          "id": "a",
+          "content_latex": "Complete the table below:"
+        },
+        {
+          "id": "b",
+          "content_latex": "Using your work from part (a), evaluate the series below."
+        }
+      ]
+    },
+    {
+      "id": "Question 1",
+      "type": "normal",
+      "content_latex": "The fifth term of an arithmetic sequence is -\ud835\udfd0\ud835\udfd0 and the fiftieth term of the sequence is \ud835\udfcf\ud835\udfce\ud835\udfcf . Determine the eightieth partial sum of this sequence.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 2",
+      "type": "normal",
+      "content_latex": "The third term of a geometric sequence is \ud835\udfd0 and the ninth term of the sequence is \ud835\udfd3\ud835\udfd2 . Determine the twentieth partial sum of this sequence.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 3",
+      "type": "normal",
+      "content_latex": "An architect designs a theater with 15 seats in the first row, 18 seats in the second row, 21 seats in the third row, and so on. If the theater is to have a seating capacity of 870, how many rows must the architect use in her design?",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 4",
+      "type": "normal",
+      "content_latex": "Express the repeating decimal \ud835\udfce. \ud835\udfcf\ud835\udfd0\ud835\udfd1\ud835\udfcf\ud835\udfd0\ud835\udfd1\ud835\udfcf\ud835\udfd0\ud835\udfd1\ud835\udfcf\ud835\udfd0\ud835\udfd1\u2026 as a fraction by first writing it as the sum of an infinite geometric series and then evaluating what it converges to.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 5",
+      "type": "normal",
+      "content_latex": "A sequence has the property that each number in the sequence is 2 more than twice the previous number. The first four numbers in the sequence add up to 202. What is the 5 th number in this sequence?",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 1",
+      "type": "normal",
+      "content_latex": "The sum of the first eight terms in an arithmetic sequence, \\\ud835\udc82\ud835\udc8f , is 28 , and the sum of the first twelve terms in \\\ud835\udc82\ud835\udc8f is -30 . Determine an explicit formula for the arithmetic sequence, \\\ud835\udc82\ud835\udc8f .",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 2",
+      "type": "normal",
+      "content_latex": "The sum of the first five terms in a geometric sequence, \\\ud835\udc88\ud835\udc8f , is 1210, and the value of its infinite series is 1215. Determine an explicit formula for \\\ud835\udc88\ud835\udc8f .",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "Question 3",
+      "type": "normal",
+      "content_latex": "The 12 th term of an arithmetic sequence, $a12$ , is twice as large as the 4 th term in the sequence, $a4$ .",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": [
+        {
+          "id": "a",
+          "content_latex": "Given $a14 = 27$ , find the value of $a1$ ."
+        },
+        {
+          "id": "b",
+          "content_latex": "Find the 20 th partial sum of this sequence."
+        }
+      ]
+    },
+    {
+      "id": "Question 4",
+      "type": "normal",
+      "content_latex": "The 20 th partial sum of an arithmetic sequence is 1070. The sum of its fifth term and its tenth term is 65.",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": [
+        {
+          "id": "a",
+          "content_latex": "Write an expression for the n th term of this sequence."
+        },
+        {
+          "id": "b",
+          "content_latex": "Find the 30 th partial sum of this sequence."
+        }
+      ]
+    },
+    {
+      "id": "Question 5",
+      "type": "normal",
+      "content_latex": "An infinite geometric series has a sum of 2005. A new series, obtained by squaring each term of the original series, has 10 times the sum of the original series. What is the common ratio of the original series?",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    }
+  ],
+  "errors": []
+}

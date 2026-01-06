@@ -1,0 +1,388 @@
+{
+  "job_id": "c5f70e50-64bd-4141-b128-148de2b51667",
+  "total_pages": 3,
+  "questions": [
+    {
+      "id": "1",
+      "type": "MCQ",
+      "content_latex": "Find the curved surface area of a right circular cone whose slant height is 10 cm and base radius is 7 cm.",
+      "options": [
+        "(a) 220 \\text{ sq. cm}",
+        "(b) 420 \\text{ sq. cm}",
+        "(c) 440 \\text{ sq. cm}",
+        "(d) 200 \\text{ sq. cm}"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "2",
+      "type": "MCQ",
+      "content_latex": "The volumes of the two spheres are in the ratio 64 : 27. Find the ratio of their radii.",
+      "options": [
+        "(a) 16:9",
+        "(b) 4:3",
+        "(c) 2:3",
+        "(d) 4:9"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "3",
+      "type": "MCQ",
+      "content_latex": "A hemispherical bowl has a radius of 3.5 cm. What would be the volume of water it would contain?",
+      "options": [
+        "(a) 69.8 \\text{ cu cm}",
+        "(b) 79.8 \\text{ cu cm}",
+        "(c) 99.8 \\text{ cu cm}",
+        "(d) 89.8 \\text{ cu cm}"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "4",
+      "type": "MCQ",
+      "content_latex": "If a plane cuts a sphere into two equal portions, then each portion is a \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+      "options": [
+        "(a) Hemisphere",
+        "(b) Segment",
+        "(c) Circle",
+        "(d) None of these"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "5",
+      "type": "MCQ",
+      "content_latex": "Find the total surface area of the hemisphere which is of radius equal to 11 cm.",
+      "options": [
+        "(a) 1139.82 \\text{ cm}^2",
+        "(b) 1178.82 \\text{ cm}^2",
+        "(c) 1239.82 \\text{ cm}^2",
+        "(d) 1339.82 \\text{ cm}^2"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "6",
+      "type": "MCQ",
+      "content_latex": "If the lateral surface area of the solid hemisphere is 2772 \\text{ sq.cm}, then find its radius.",
+      "options": [
+        "(a) 22 cm",
+        "(b) 35 cm",
+        "(c) 21cm",
+        "(d) 31cm"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "7",
+      "type": "MCQ",
+      "content_latex": "The volume of the largest right circular cone that can be fitted in a cube whose edge is 2r equals to the volume of a hemisphere of radius \\_\\_\\_\\_\\_\\_\\_\\_\\_\\_.",
+      "options": [
+        "(a) 2r",
+        "(b) 3r",
+        "(c) r/2",
+        "(d) r"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "8",
+      "type": "Open-ended",
+      "content_latex": "What is the total surface area of a cone having radius r and height 21?",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "9",
+      "type": "MCQ",
+      "content_latex": "If a right circular cone has radius 4 cm and slant height 5 cm, then what is its volume?",
+      "options": [
+        "(a) 16 \\pi \\text{ cm}^3",
+        "(b) 14 \\pi \\text{ cm}^3",
+        "(c) 12 \\pi \\text{ cm}^3",
+        "(d) 18 \\pi \\text{ cm}^3"
+      ],
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "10",
+      "type": "Open-ended",
+      "content_latex": "The radius of a hemisphere is r. What is its volume?",
+      "options": null,
+      "image_references": [],
+      "table_references": [],
+      "sub_questions": []
+    },
+    {
+      "id": "11",
+      "type": "Open-ended",
+      "content_latex": "If the radius of a sphere is doubled, then what is the ratio of their surface area?",
+      "options": null,
+      "image_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_fig_1.png"
+      ],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "12",
+      "type": "MCQ",
+      "content_latex": "Two right circular cones of equal curved surface areas have slant heights in the ratio of 3 : 5. Find the ratio of their radii.",
+      "options": [
+        "(a) 4 : 1",
+        "(b) 3 : 5",
+        "(c) 5 : 3",
+        "(d) 4 : 5"
+      ],
+      "image_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_fig_1.png"
+      ],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "13",
+      "type": "MCQ",
+      "content_latex": "The heights of two cones are in the ratio 3:5 and their radii are in the ratio 7:3. Find the ratio of their volume.",
+      "options": [
+        "(a) 49:15",
+        "(b) 7:5",
+        "(c) 36: 7",
+        "(d) 4:1"
+      ],
+      "image_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_fig_1.png"
+      ],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "14",
+      "type": "MCQ",
+      "content_latex": "A cone completely made of metal (i.e. it is not hollow) has a base radius of 5 cm, and height of 20 cm. If we melt it and recast it into a sphere, what will be the radius of the sphere?",
+      "options": [
+        "(a) 7cm",
+        "(b) 2cm",
+        "(c ) 5cm",
+        "(d) 10 cm"
+      ],
+      "image_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_fig_1.png"
+      ],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "15",
+      "type": "MCQ",
+      "content_latex": "A sphere is just enclosed inside a right circular cylinder. If the surface area of the sphere is 170 \\text{ cm}^2 , find the curved surface area of the cylinder.",
+      "options": [
+        "(a ) 85 \\text{ cm}^2",
+        "(b) 170 \\text{ cm}^2",
+        "(c) 255 \\text{ cm}^2",
+        "(d) 340 \\text{ cm}^2"
+      ],
+      "image_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_fig_1.png"
+      ],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_0.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.1",
+      "type": "Open-ended",
+      "content_latex": "A cube of side 4 cm contains a sphere touching its sides. Find the volume of the gap in between.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.2",
+      "type": "Open-ended",
+      "content_latex": "A conical pit of top diameter 3.5 m is 12 m deep. What is its capacity in kiloliters?",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.3",
+      "type": "Open-ended",
+      "content_latex": "What is the volume of the largest right circular cone that can be cut out of a cube of edge 7 cm?",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.4",
+      "type": "Open-ended",
+      "content_latex": "Find the radius of the sphere whose surface area is 154 \\text{ cm}^2 .",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.5",
+      "type": "Open-ended",
+      "content_latex": "The surface area of a sphere is 24.64 \\text{ cm}^2 . Find its volume.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.6",
+      "type": "Open-ended",
+      "content_latex": "A cone and a hemisphere have equal bases and equal volumes. Find the ratio of their heights.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.7",
+      "type": "Open-ended",
+      "content_latex": "The dome of a building is in the form of a hemisphere. Its radius is 63 dm. Find the cost of painting it at the rate of Rs 2 per \\text{ sq.m}.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.8",
+      "type": "Open-ended",
+      "content_latex": "A cone of radius 5 cm is filled with water. If the water is poured in a cylinder of radius 10 cm, the height of water rises 2 cm, find the height of the cone.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.9",
+      "type": "Open-ended",
+      "content_latex": "A sweet shop has one spherical ladoo of radius 5 cm with the same amount of material, how many ladoos of radius 2.5 cm can be made?",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.10",
+      "type": "Open-ended",
+      "content_latex": "A wooden toy is in the form of a cone surmounted on a hemisphere. The diameter of the base of the cone is 6 cm and its height is 4 cm. Find the cost of painting the toy at the rate of Rs 5 per 1000 \\text{ cm}^2 .",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.11",
+      "type": "Open-ended",
+      "content_latex": "The volume of two spheres is in the ratio of 64:27. Find the difference of their surface areas, if the sum of their radii is 7.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.12",
+      "type": "Open-ended",
+      "content_latex": "What length of tarpaulin 3 \\text{ m wide} will be required to make conical tent of height 8 \\text{ m and} base radius 6m? Assume that the extra length of material that will be required for stitching margins and wastage in cutting is approximately 20 cm.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.13",
+      "type": "Open-ended",
+      "content_latex": "An iron pillar has some part in the form of a right circular cylinder and remaining in the form of a right circular cone. The radius of the base of each of cone and cylinder is 8 cm. The cylindrical part is 240 cm high and the conical part in 36 cm high. Find the weight of the pillar if one cu. cm of iron weighs 7.8 grams.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.14",
+      "type": "Open-ended",
+      "content_latex": "A solid toy is in the form of a hemisphere surmounted by a right circular cone. The height of the cone is 4 cm and diameter of the base is 8 cm. Determine the volume of the toy. If the cube circumscribes the toy, then find the difference of the volumes of the cube and the toy. Also, find the total surface area of the toy.",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    },
+    {
+      "id": "II.15",
+      "type": "Open-ended",
+      "content_latex": "In a flood hit area, the volunteers of NSS erected a conical tent made of tarpaulin. The vertical height of the conical tent is 4m and the base diameter is 6m. If the width of tarpaulin is 4.5m then. Find the length of the tarpaulin used, assuming that 10% extra material is required for stitching margins and wastage in cutting. (Take \\pi = 3.14)",
+      "options": null,
+      "image_references": [],
+      "table_references": [
+        "c5f70e50-64bd-4141-b128-148de2b51667_tbl_1.csv"
+      ],
+      "sub_questions": []
+    }
+  ],
+  "errors": [],
+  "processing_time_sec": 125.22
+}
