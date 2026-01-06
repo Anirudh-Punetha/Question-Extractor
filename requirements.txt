@@ -1,8 +1,0 @@
-fastapi
-uvicorn
-gunicorn
-jsonschema
-torch
-transformers
-pillow
-pypdf
