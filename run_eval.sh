@@ -7,7 +7,9 @@ API_URL="http://localhost:8000"
 
 mkdir -p "$OUTPUT_DIR"
 
-echo "Launching Parallel Evaluation..."
+echo "------------------------------------------------"
+echo "Launching Parallel Evaluation: $(date)"
+echo "------------------------------------------------"
 
 process_pdf() {
     local file=$1
@@ -36,11 +38,12 @@ process_pdf() {
             # Extract time from the 'data' field
             # In main.py, final_output is returned inside the 'data' key
             p_time=$(echo "$full_resp" | jq -r '.data.processing_time_sec')
+            err_len=$(echo "$full_resp" | jq -r '.data.errors | length')
             
             if [[ "$p_time" == "null" ]]; then
-                echo "[!] $filename: Done (Time returned null)"
+                echo "[!] $filename: Done (Time returned null) ($err_len chunks FAILED)"
             else
-                echo "[✓] $filename: Done in ${p_time}s"
+                echo "[✓] $filename: Done in ${p_time}s ($err_len chunks FAILED)"
             fi
             break
         fi
