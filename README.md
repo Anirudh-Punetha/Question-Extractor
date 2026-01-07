@@ -31,7 +31,11 @@ Parallelism is achieved via BackgroundTasks in FastAPI.
 Semaphore is used to restrict the number of parallel background tasks that can be processed concurrently.
 
 ## Running
+
+```
+pip install -r requirements.txt
 uvicorn main:app --workers 3 --host 0.0.0.0
+```
 
 ## Notes
 [Notes.md](./Notes.md)
