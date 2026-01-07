@@ -37,6 +37,14 @@ pip install -r requirements.txt
 uvicorn main:app --workers 3 --host 0.0.0.0
 ```
 
+Warning!
+Since I have uploaded the code through my windows system, you might faces issues while running it in your linux systems.
+To fix it use the following commands:
+```
+sudo apt-get install dos2unix
+dos2unix main.py run_eval.sh
+```
+
 ## Notes
 [Notes.md](./Notes.md)
 
