@@ -1,5 +1,5 @@
-# Use Python 3.10-slim for a lightweight but compatible base
-FROM python:3.10-slim
+# Use Python 3.12-slim for a lightweight but compatible base
+FROM python:3.12-slim
 
 # Set environment variables
 ENV PYTHONDONTWRITEBYTECODE=1 \
@@ -38,4 +38,4 @@ USER appuser
 EXPOSE 8000
 
 # Start server with 4 workers to handle parallelism efficiently
-CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "4"]
+CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000", "--workers", "3"]
