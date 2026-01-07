@@ -33,9 +33,10 @@ We utilize a **Hybrid Extraction Strategy** to ensure high structural fidelity w
 
 ## 4. What worked well
 1. All questions and subquestions are mostly correct.
-2. Schema adherance is working well.
-3. Figures and tables are being extracted.
-4. OCR is also working for scanned parts of pages except where the resolution is too low.
+2. Latex is extracted correctly.
+3. Schema adherance is working well.
+4. Figures and tables are being extracted.
+5. OCR is also working for scanned parts of pages except where the resolution is too low.
 
 --- 
 
