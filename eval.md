@@ -39,6 +39,10 @@ We evaluate the system across three primary vectors to ensure high-scoring compl
 - Hierarchical Integrity (Schema - 20 pts)
   Nested Depth: Validation that the recursive Pydantic model correctly captures sub_questions (e.g., Q1 -> a -> i) instead of flattening them.
 
+- Code Quality & Runability (Neatness and Working - 15 pts)
+
+- Approach & Communication(Readme and Notes - 10 pts)
+
 ## 3. Resilience Mechanism: Atomic Chunking
 To prevent the "hanging" issues common in document AI engines when processing dense or scanned files, our evaluation design utilizes Atomic Chunking:
 
