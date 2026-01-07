@@ -35,3 +35,6 @@ uvicorn main:app --workers 3 --host 0.0.0.0
 
 ## Notes
 [Notes.md](./Notes.md)
+
+## Evaluation
+[Eval.md](./eval.md)

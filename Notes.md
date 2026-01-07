@@ -16,22 +16,36 @@ We utilize a **Hybrid Extraction Strategy** to ensure high structural fidelity w
 ## 2. Key Constraints Compliance
 
 ### Runtime (≤ 3 min / 10 pages)
-- **Backend Optimization:** We use `pypdfium2`, the fastest PDF backend available for Docling.
+- **Backend Optimization:** We use Tesseract as the OCR engine in Docling and process the pdf in chunks to keep the execution time low.
 - **Inference:** Gemini 2.5 Flash is selected for its high token-per-second throughput compared to Pro models.
 
 ### Parallelism (≥ 5 Concurrent PDFs)
 - **Concurrency Management:** Implemented an `asyncio.Semaphore(5)`. This ensures that even under heavy load, the system processes exactly 5 high-CPU tasks at once, preventing Out-of-Memory (OOM) crashes in a containerized environment.
-- **Logging:** All failures are logged to `storage/results/{job_id}_error.log` with full tracebacks.
+- **Logging:** All resuts including failures are stored to `storage/results/{job_id}.json`.
 
 ---
 
 ## 3. Structural Correctness
-- **Asset Linking:** Diagrams/Figures are extracted as separate PNG files and mapped back to the JSON via stable UUID filenames.
+- **Asset Linking:** Diagrams/Figures are extracted as separate PNG files and mapped back to the JSON via stable UUID filenames. They are stored in storage/assets/{job_id}_{img_id}.png
 - **Strict JSON:** We use Gemini's `response_schema` to enforce 100% valid JSON output at the token level.
 
 ---
 
-## 4. Prioritized Next Steps
-1. **Handwriting Support:** Integrate `Tesseract` OCR as a fallback for scanned handwritten papers.
-2. **OMR Head:** Add a vision head to detect filled/unfilled MCQ checkboxes.
+## 4. What worked well
+1. All questions and subquestions are mostly correct.
+2. Schema adherance is working well.
+3. Figures and tables are being extracted.
+4. OCR is also working for scanned parts of pages except where the resolution is too low.
+
+--- 
+
+## 5. Problems Identified
+1. Figures are often tagged to the question above or below the actual question.
+2. False positives for tables where questions are in a column based paper style.
+
+---
+
+## 6. Prioritized Next Steps
+1. **Figure Mismatch:** We can try to train a layout parser model like LayoutLM to identify bounding boxes for questions and then process it one bounding box at a time. This will lead to figures and tables being always tagged to the correct question.
+2. **Intersecting Questions:** Chunking may lead to a question which is spread across multiple pages to be treated as 2 different questions. We could pass the last question of a chunk and the first question of the next chunk to see if they can be merged together. This can be done with another LLM call.
 3. **Caching:** Implement Redis caching for identical PDF hashes to reduce VLM API costs.
