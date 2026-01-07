@@ -26,7 +26,7 @@ We utilize a **Hybrid Extraction Strategy** to ensure high structural fidelity w
 ---
 
 ## 3. Structural Correctness
-- **Asset Linking:** Diagrams/Figures are extracted as separate PNG files and mapped back to the JSON via stable UUID filenames. They are stored in storage/assets/{job_id}_{img_id}.png
+- **Asset Linking:** Diagrams/Figures are extracted as separate PNG files and mapped back to the JSON via stable UUID filenames. They are stored in `storage/assets/{job_id}_{img_id}.png`
 - **Strict JSON:** We use Gemini's `response_schema` to enforce 100% valid JSON output at the token level.
 
 ---
